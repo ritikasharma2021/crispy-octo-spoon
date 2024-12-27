@@ -1,8 +1,6 @@
 # crispy-octo-spoon
 Hello world this is my profile 
 <h1 align="center">Hi 👋, I'm Ritika sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ritika_3483" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ritika_3483" height="30" width="40" /></a>
